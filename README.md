@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rafay Awan
+# 👋 Hi, I'm Rafay Awan
 
 ## 🏆 GitHub Trophies
 
