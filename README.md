@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding animation" />
 
-  ### 🤖 Aspiring AI/ML Engineer | Python Developer
+  <br/>
 
-  **Software Engineering Undergraduate | Machine Learning Enthusiast**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Abdur+Rafay+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Python+%7C+Machine+Learning;Exploring+Deep+Learning+%26+Neural+Networks;Building+AI+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
-  *Learning, building, and turning ideas into intelligent solutions.*
-  
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=Rafay429&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a Software Engineering undergraduate at the University of Sargodha.
-- 🐍 I work with Python for Machine Learning and data analysis.
-- 🤖 I build beginner-to-intermediate Machine Learning projects.
-- 📊 I practice data preprocessing, exploratory data analysis, model training, and evaluation.
+- 🎓 Software Engineering undergraduate at the University of Sargodha.
+- 🐍 Working with Python for Machine Learning and data analysis.
+- 🤖 Building practical Machine Learning projects.
+- 📊 Interested in data preprocessing, model training, and evaluation.
 - 🧠 Currently learning Deep Learning and Neural Networks.
-- 💡 My long-term goal is to build useful AI-powered products and become an AI entrepreneur.
+- 💡 Aspiring AI Product Creator and Entrepreneur.
 
 ---
 
@@ -29,9 +29,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ## 🧰 Libraries & Tools
@@ -59,49 +59,54 @@
 - Regression and Classification
 - Model Training and Evaluation
 - Cross-Validation and Hyperparameter Tuning
-- Metrics: MAE, RMSE, R², Accuracy, Precision, Recall, and F1-Score
+- Evaluation Metrics: MAE, RMSE, R², Accuracy, Precision, Recall, and F1-Score
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎓 Student Marks Prediction
-Predicts student marks using study time and other relevant features.
+
+Predicts student marks using study-related features.
 
 - **Tech:** Python, Pandas, NumPy, Scikit-learn
 - **Focus:** Regression, model evaluation, and cross-validation
 
 ### 🚗 Used Car Price Prediction
+
 Estimates used car prices using Machine Learning.
 
 - **Tech:** Python, Pandas, Scikit-learn
 - **Focus:** Random Forest, GridSearchCV, and regression evaluation
 
 ### 🚢 Titanic Survival Prediction
+
 Predicts passenger survival using a classification pipeline.
 
 - **Tech:** Python, Pandas, Scikit-learn
-- **Focus:** Missing values, One-Hot Encoding, Logistic Regression, and evaluation
+- **Focus:** Missing values, One-Hot Encoding, Logistic Regression, and model evaluation
 
 ### 🏥 Medical Insurance Prediction
-Estimates medical insurance charges from available features.
+
+Estimates medical insurance charges using Machine Learning.
 
 - **Tech:** Python, Pandas, Scikit-learn
 - **Focus:** Regression and model performance evaluation
 
 ### 📈 Advertising Sales Prediction
-Explores the relationship between advertising expenditure and sales.
+
+Analyzes advertising expenditure and predicts sales.
 
 - **Tech:** Python, Pandas, Matplotlib, Scikit-learn
 - **Focus:** Data analysis and regression
 
-**Explore my repositories:** [github.com/Rafay429](https://github.com/Rafay429)
+**Explore all my projects:** [GitHub Repositories](https://github.com/Rafay429?tab=repositories)
 
 ---
 
 ## 📚 Currently Learning
 
-- 🧠 Deep Learning fundamentals
+- 🧠 Deep Learning Fundamentals
 - 🔗 Perceptrons and Neural Networks
 - ⚙️ Gradient Descent and Activation Functions
 - 💻 Building practical AI/ML projects
@@ -112,7 +117,7 @@ Explores the relationship between advertising expenditure and sales.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafay429&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafay429&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafay429&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -123,7 +128,7 @@ Explores the relationship between advertising expenditure and sales.
 
 ## 🤝 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Rafay429">
     <img src="https://img.shields.io/badge/GitHub-Rafay429-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
@@ -132,7 +137,6 @@ Explores the relationship between advertising expenditure and sales.
 ---
 
 <div align="center">
-  ### 🌱 Keep Learning. Keep Building. Keep Growing.
-
-  **Future AI Product Creator 🚀**
+  <h3>🌱 Keep Learning. Keep Building. Keep Growing.</h3>
+  <b>Future AI Product Creator 🚀</b>
 </div>
