@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Abdur Rafay
+![Abdur Rafay](https://capsule-render.vercel.app/api?type=waving&color=0:72858a,100:718b96&height=200&section=header&text=Abdur%20Rafay&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Abdur+Rafay+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Python+%7C+Machine+Learning;Exploring+Deep+Learning+%26+Neural+Networks;Building+AI+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Python+%7C+Machine+Learning;Exploring+Deep+Learning+%26+Neural+Networks;Building+AI+Projects;Future+AI+Product+Creator+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Missing Value Imputation and One-Hot Encoding
-- Feature Scaling and Pipelines
+- Feature Scaling and ML Pipelines
 - Regression and Classification
 - Model Training and Evaluation
 - Cross-Validation and Hyperparameter Tuning
@@ -108,6 +108,7 @@ Analyzes advertising expenditure and predicts sales.
 - 🔗 Perceptrons and Neural Networks
 - ⚙️ Gradient Descent and Activation Functions
 - 💻 Building practical AI/ML projects
+- 🚀 Exploring AI-powered software products
 
 ---
 
